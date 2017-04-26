@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="openCamera">Open Camera</string>
+    <string name="app_name">CameraAppDemo</string>
+  <string name="sendToServer">Send To Server</string>
+  <string name="getFromServer">Get From Server</string>
+</resources>

@@ -1,0 +1,4 @@
+CameraAppDemo.MainActivity, CameraAppDemo;md58f9f015166ad67a1b9becfd72b6b20fe.MainActivity
+CameraAppDemo.MainActivity, CameraAppDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md58f9f015166ad67a1b9becfd72b6b20fe.MainActivity
+CameraAppDemo.MainActivity;md58f9f015166ad67a1b9becfd72b6b20fe.MainActivity
+cameraappdemo.MainActivity;md58f9f015166ad67a1b9becfd72b6b20fe.MainActivity
